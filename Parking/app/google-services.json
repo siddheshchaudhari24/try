@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "564380330824",
+    "project_id": "smart-parking-system-6dc0e",
+    "storage_bucket": "smart-parking-system-6dc0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564380330824:android:dbd19a83eeac5d2e9aa17d",
+        "android_client_info": {
+          "package_name": "com.example.parking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHkAQnPrIe4luQ_1HWpcW7ngmfjvVjRyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564380330824:android:e8c35bc3497df9509aa17d",
+        "android_client_info": {
+          "package_name": "com.example.parkingsystem123"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHkAQnPrIe4luQ_1HWpcW7ngmfjvVjRyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564380330824:android:0e7d37ab69f3c4099aa17d",
+        "android_client_info": {
+          "package_name": "com.example.smartparkingsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHkAQnPrIe4luQ_1HWpcW7ngmfjvVjRyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
